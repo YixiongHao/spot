@@ -15,3 +15,5 @@ Components list (will update with the serial numbers of exact parts when I get t
 - 5* small 3-digit displays
 - Some screws, wires, and 3D printed parts
 
+Currently cannot walk due to balance and weight issues yet to be resolved, future plans include remote control, adding camera for CV, mic & speaker hooked up to openai stack
+
