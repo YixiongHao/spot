@@ -1,7 +1,7 @@
 This is a quadruped robot project inspired by Boston dynamic's spot :D !
 Most of the code, 3d models, and pictures are in their respective folders
 
-Go to Spot 0.1 media for some videos!
+Go to [Spot 0.1 media](https://github.com/YixiongHao/spot/tree/master/Spot%200.1%20media) for some videos!
 
 Components list (will update with the serial numbers of exact parts when I get the opportunity to check lol):
 - ESP 32 controller
