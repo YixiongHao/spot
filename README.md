@@ -2,8 +2,8 @@ This is a quadruped robot project inspired by Boston dynamic's spot :D !
 Most of the code, 3d models, and pictures are in their respective folders
 
 Components list (will update with the serial numbers of exact parts when I get the opportunity to check lol):
-ESP 32 controller
-Adafruit 16-channel 12-bit pwm/servo driver
+- ESP 32 controller
+- Adafruit 16-channel 12-bit pwm/servo driver
 12* 35kg servos
 4* 6A adjustable voltage stabilizers + 1* smaller voltage stabilizer
 6* VL53L0x ToF sensors
