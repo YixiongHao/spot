@@ -1,5 +1,5 @@
-aThis is a quadruped robot project inspired by Boston dynamic's spot :D !
-Most of the code, 3d models, and media are in their respective folders
+This is a quadruped robot project inspired by Boston dynamic's spot :D !
+Most of the code, [3d models](https://github.com/YixiongHao/spot/blob/master/3D%20models), and media are in their respective folders
 
 Go to [Spot 0.1 media](https://github.com/YixiongHao/spot/tree/master/Spot%200.1%20media) for some videos!
 
